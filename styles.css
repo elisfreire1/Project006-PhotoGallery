@@ -42,6 +42,7 @@ body{
     padding: 20px 10px;
     max-width: 1400px;
     margin: 0 auto;
+    gap: 16px; /*gap property sets the gaps, also known as gutters, between rows and columns*/
 }
 
 .gallery img{
