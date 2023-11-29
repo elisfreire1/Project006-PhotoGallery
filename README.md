@@ -1,2 +1,2 @@
-# Project005-PhotoGallery
+# Project006-PhotoGallery
 Project Photo Gallery with Flexbox
