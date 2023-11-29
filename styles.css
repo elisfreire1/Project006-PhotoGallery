@@ -50,5 +50,6 @@ body{
     max-width: 350px;
     height: 300px;    
     object-fit: cover; /*the object-fit property and set it to cover. This will tell the image to fill the img container while maintaining aspect ratio, resulting in cropping to fit.*/
+    border-radius: 10px;
 }
 
