@@ -21,3 +21,9 @@ img{
     max-width: 350px;
     height: 300px;    
 }
+
+body{
+    margin: 0;
+    font-family: sans-serif; 
+    background-color: #f5f6f7;
+}
