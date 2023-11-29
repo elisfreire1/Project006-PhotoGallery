@@ -57,3 +57,12 @@ body{
     content: ""; /*empty element*/
     width: 350px; /*the same width of img*/
 }
+
+/*By me*/
+.footer{
+    text-align: center;
+    padding: 125px;
+    background-color: #0a0a23;
+    color: #fff;
+    border-top: 4px solid #fdb347;
+}
