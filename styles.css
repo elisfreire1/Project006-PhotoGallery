@@ -32,6 +32,11 @@ body{
     border-bottom: 4px solid #fdb347;
 }
 
+.gallery{
+    /*Flexbox is a one-dimensional CSS layout that can control the way items are spaced out and aligned within a container. To use it, give an element a display property of flex. This will make the element a flex container. Any direct children of a flex container are called flex items.*/
+    display: flex;
+}
+
 .gallery img{
     width: 100%;
     max-width: 350px;
